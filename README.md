@@ -8,7 +8,7 @@
 
 ## Why I made this?
 
-#### I have created this app to play around with the React JS framework and build something cool😎.
+#### I have created this app to play around with the React JS framework and build something cool out of it😎.
 
 ## Technologies Used:
 
